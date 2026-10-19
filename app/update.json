@@ -1,9 +1,9 @@
 {
-    "versionCode": 10,
-    "versionName": "0.2.8",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.8.apk",
-    "sha256": "85e50b0c1fc7e448278284f5d6f5660aed49921bc69171a23e8d6930eeefdef2",
-    "size": 4280544,
-    "releaseNotes": "\u2022 TV guide: Favourites is now first and opens by default, and HD channels without a schedule show the standard channel's.\n\u2022 Movies and TV Shows open on your Favourites row, with Cast, Genres and Director beside the banner.\n\u2022 Text that doesn't fit now scrolls everywhere in the app, including full episode descriptions.\n\u2022 Online subtitles: better automatic picks, and a set you choose is preferred for the rest of the show.\n\u2022 Smaller tidy-ups: a divider in the Categories menus, and the seasons count is gone from the details page.",
-    "published": "2026-10-17"
+    "versionCode": 11,
+    "versionName": "0.2.9",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.9.apk",
+    "sha256": "1d39b74c6e1bd04ceb9e0acfcc7a82f34eebd45d158892004c883d5626b5e343",
+    "size": 4296941,
+    "releaseNotes": "\u2022 New in Settings: Cache limit.\n\u2022 Live channels that won't play are now reported automatically, so they get fixed sooner.\n\u2022 Lots of smaller improvements and fixes across the app.",
+    "published": "2026-10-19"
 }
