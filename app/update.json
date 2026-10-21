@@ -1,9 +1,9 @@
 {
-    "versionCode": 11,
-    "versionName": "0.2.9",
-    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.2.9.apk",
-    "sha256": "1d39b74c6e1bd04ceb9e0acfcc7a82f34eebd45d158892004c883d5626b5e343",
-    "size": 4296941,
-    "releaseNotes": "\u2022 New in Settings: Cache limit.\n\u2022 Live channels that won't play are now reported automatically, so they get fixed sooner.\n\u2022 Lots of smaller improvements and fixes across the app.",
-    "published": "2026-10-19"
+    "versionCode": 12,
+    "versionName": "0.3.0",
+    "apkUrl": "https://zarestreams.com/app/ZareStreams-0.3.0.apk",
+    "sha256": "3c77307b653dc19660685ab257e09225e197c8b2a94f4924b2c618c1a30fd636",
+    "size": 4296943,
+    "releaseNotes": "\u2022 New themes: Blacked out and Batman (for Adam). Pick one in Settings under Theme.\n\u2022 Settings app has some other new settings and cleaner design.\n\u2022 Friendlier error messages.\n\u2022 Lots of smaller improvements and fixes across the app.",
+    "published": "2026-10-21"
 }
